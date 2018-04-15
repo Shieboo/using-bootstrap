@@ -1,0 +1,49 @@
+body {
+  background: #e1e1e1;
+}
+/* NAVBAR CONTAINER */
+.navbar-container {
+  padding: 0;
+}
+
+.navbar-container-top {
+  margin: 0;
+  background: #000;
+  height: 32px;
+}
+
+.navbar-element {
+  font-size: 13px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.navbar-edition,
+.navbar-signin,
+.navbar-subscribe {
+  padding-top: 6px;
+  cursor: pointer;
+}
+
+.navbar-subscribe {
+  background: #fff;
+  color: #ff0000;
+}
+
+.navbar-container-bottom {
+  background: #ff0000;
+  height: 32px;
+}
+/* ARTICLE CONTAINER */
+.article-view {
+  background: #aaa;
+}
+
+.article-view-img {
+  background: #888;
+  height: 500px;
+}
+/* HEADLINES CONTAINER */
+.headlines-container {
+  background: #666;
+}
